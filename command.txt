@@ -1,0 +1,5 @@
+- make
+- gcc -o server server.c -L. -lmsocket -lpthread
+- ./server
+
+
